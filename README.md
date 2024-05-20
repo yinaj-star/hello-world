@@ -26,17 +26,17 @@
 1차 방정식 'y = ax + b' 공식입니다.
 
 ### syntax highlighting
-'''javascript
+```javascript
 function sum(a,b) {
 x = a+b;
 }
-'''
+```
 
-'''python
+```python
 def sum(a,b);
  x = a+b
  return x
-'''
+```
 
 ### Task lists
 - [x] 자료조사
